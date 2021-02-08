@@ -18,7 +18,7 @@ How the game is played/What is the product to be developed?
 
 
 Hit the game icon, select players number (no more than 4).
-Hit start, by order, the players picking up two cards, only current player can see what the two cards are, if the cards meet the rules, the two cards are given to this player automatically and score boars show this player’s number of cards he/she win. The game ends when the last pair has been picked up. The winner is the person with the most pairs. There may be a tie for first place.
+Hit start, by order, the players picking up two cards, only current player or all palyers  can see what the two cards are, if the cards meet the rules, the two cards are given to this player automatically and score boars show this player’s number of cards he/she win. The game ends when the last pair has been picked up. The winner is the person with the most pairs. There may be a tie for first place.
 
 
 Who are the target customers and users? 
@@ -47,7 +47,7 @@ Features of the game
 4 cards selecting option
 
 
-5 only current player can see selected cards option
+5 only current player can see selected cards option if used
 
 
 6 winning cards
