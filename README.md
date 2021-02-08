@@ -12,12 +12,24 @@ Game vision
 
 
 The essence of this game is to train the players’ memory for space and sign (information of card). The possibility of picking up two cards with the same rank and color at first time is quite low, but if a card player remembered where and what the past cards he/she has picked, then the possibility of picking up the cards with same rank and color is increasing. 
+
+
 How the game is played/What is the product to be developed?
+
+
 Hit the game icon, select players number (no more than 4).
 Hit start, by order, the players picking up two cards, only current player can see what the two cards are, if the cards meet the rules, the two cards are given to this player automatically and score boars show this player’s number of cards he/she win. The game ends when the last pair has been picked up. The winner is the person with the most pairs. There may be a tie for first place.
+
+
 Who are the target customers and users? 
+
+
 Almost all adults can be the customers and they and their children can be the users. Especially for kids. 
+
+
 Why should customers buy this product?
+
+
 This game can significantly improve the players’ memory for space and sign, especially helpful for the kids in growth. Because there is a lot fun in it, it helps to players for improving their social relationship.
 
 
