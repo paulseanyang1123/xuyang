@@ -1,2 +1,3 @@
-"# demo_repository" 
-"# demo_repository"  
+
+// this is my first java code
+// this code is based on java Eclipse IDE
